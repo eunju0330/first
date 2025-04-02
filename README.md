@@ -53,3 +53,5 @@
 10. `git status` 위 9번 업로드 됐는지 확인(초록색 변경)
 11. `git commit -m '메시지'` 수정 파일에 대한 기록 메세지 작성
 12. `git push origin main` 갓허브 저장소에 업로드
+13. html의 속성과 값 html lang=”ko” -> 메인 언어를 한국어로 설정한다.
+14. mata의 속성과 값 <meta charset=”UTF-8”> charset(속성)문자열을 UTF 다국어 설정하겠다
